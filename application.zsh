@@ -1,0 +1,7 @@
+alias notes="open -a notes"
+alias slack="open -a slack"
+alias gmail="open https://mail.google.com/mail/u/0/#inbox"
+alias airdrop="open -a airdrop"
+alias google="open https://www.google.com"
+alias outlook="open -a 'Microsoft Outlook'"
+alias intellij="open -a 'IntelliJ IDEA'"
